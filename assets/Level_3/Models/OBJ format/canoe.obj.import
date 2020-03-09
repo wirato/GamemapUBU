@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/canoe.obj-20c88b659f63d4fb71e94ef3a547ff00.mesh"
+
+[deps]
+
+files=[ "res://.import/canoe.obj-20c88b659f63d4fb71e94ef3a547ff00.mesh" ]
+
+source_file="res://assets/Level_3/Models/OBJ format/canoe.obj"
+dest_files=[ "res://.import/canoe.obj-20c88b659f63d4fb71e94ef3a547ff00.mesh", "res://.import/canoe.obj-20c88b659f63d4fb71e94ef3a547ff00.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

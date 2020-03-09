@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/logs_stackLarge.obj-38c8b6f9d16064976396c401ea928d4a.mesh"
+
+[deps]
+
+files=[ "res://.import/logs_stackLarge.obj-38c8b6f9d16064976396c401ea928d4a.mesh" ]
+
+source_file="res://assets/Level_3/Models/OBJ format/logs_stackLarge.obj"
+dest_files=[ "res://.import/logs_stackLarge.obj-38c8b6f9d16064976396c401ea928d4a.mesh", "res://.import/logs_stackLarge.obj-38c8b6f9d16064976396c401ea928d4a.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

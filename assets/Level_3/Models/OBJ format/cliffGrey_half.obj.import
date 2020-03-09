@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/cliffGrey_half.obj-a5011354a83e4542d577ffff45faa2fe.mesh"
+
+[deps]
+
+files=[ "res://.import/cliffGrey_half.obj-a5011354a83e4542d577ffff45faa2fe.mesh" ]
+
+source_file="res://assets/Level_3/Models/OBJ format/cliffGrey_half.obj"
+dest_files=[ "res://.import/cliffGrey_half.obj-a5011354a83e4542d577ffff45faa2fe.mesh", "res://.import/cliffGrey_half.obj-a5011354a83e4542d577ffff45faa2fe.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

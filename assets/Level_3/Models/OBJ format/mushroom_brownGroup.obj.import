@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/mushroom_brownGroup.obj-c14265107c5bb861d47721f2dcf17d7f.mesh"
+
+[deps]
+
+files=[ "res://.import/mushroom_brownGroup.obj-c14265107c5bb861d47721f2dcf17d7f.mesh" ]
+
+source_file="res://assets/Level_3/Models/OBJ format/mushroom_brownGroup.obj"
+dest_files=[ "res://.import/mushroom_brownGroup.obj-c14265107c5bb861d47721f2dcf17d7f.mesh", "res://.import/mushroom_brownGroup.obj-c14265107c5bb861d47721f2dcf17d7f.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/cliffGrey_entrance.obj-4a076b669c3d3067c267413aed4c5002.mesh"
+
+[deps]
+
+files=[ "res://.import/cliffGrey_entrance.obj-4a076b669c3d3067c267413aed4c5002.mesh" ]
+
+source_file="res://assets/Level_3/Models/OBJ format/cliffGrey_entrance.obj"
+dest_files=[ "res://.import/cliffGrey_entrance.obj-4a076b669c3d3067c267413aed4c5002.mesh", "res://.import/cliffGrey_entrance.obj-4a076b669c3d3067c267413aed4c5002.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

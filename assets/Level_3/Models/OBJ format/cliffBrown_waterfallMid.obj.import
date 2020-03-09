@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/cliffBrown_waterfallMid.obj-cbf668f11711e040f78698f0d8e7542f.mesh"
+
+[deps]
+
+files=[ "res://.import/cliffBrown_waterfallMid.obj-cbf668f11711e040f78698f0d8e7542f.mesh" ]
+
+source_file="res://assets/Level_3/Models/OBJ format/cliffBrown_waterfallMid.obj"
+dest_files=[ "res://.import/cliffBrown_waterfallMid.obj-cbf668f11711e040f78698f0d8e7542f.mesh", "res://.import/cliffBrown_waterfallMid.obj-cbf668f11711e040f78698f0d8e7542f.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true
